@@ -11,7 +11,22 @@
 
 ### Objetivo
 ---
-<p>O código usa a biblioteca Pygame para criar o jogo da "Cobra", onde o jogador controla a cobra para comer pontos de comida e crescer, evitando colisões consigo mesma ou com as bordas da tela.</p>
+Neste código, estou aprendendo a criar um jogo clássico da "Cobra" usando a biblioteca Pygame em Python. Meu objetivo é entender como:
+- Configurar a tela do jogo.
+- Controlar a cobra com as setas.
+- Desenhar elementos como a cobra e a comida.
+- Detectar colisões.
+
+Estou praticando conceitos de:
+- Lógica de jogo.
+- Manipulação de listas para coordenar o movimento da cobra.
+- Renderização gráfica simples.
+
+Também estou aprendendo a:
+- Lidar com eventos do jogador.
+- Criar um loop de jogo que atualiza a tela regularmente.
+
+Com este projeto, estou me familiarizando com as bases do desenvolvimento de jogos e ganhando experiência em programação interativa e visual.
 
 ### Tecnologias
 ---

@@ -11,7 +11,7 @@
 
 ### Objetivo
 ---
-<h3>Este código em Python usa a biblioteca Pygame para criar um jogo simples de "Snake", onde o jogador controla uma cobra que deve comer a comida que aparece na tela para crescer. Aqui está uma descrição do código:
+<p>Este código em Python usa a biblioteca Pygame para criar um jogo simples de "Snake", onde o jogador controla uma cobra que deve comer a comida que aparece na tela para crescer. Aqui está uma descrição do código:
 O código começa importando as bibliotecas necessárias: pygame para a criação do jogo e random para gerar números aleatórios.
 O jogo é inicializado usando pygame.init() e a janela é configurada com o título "Snake" usando pygame.display.set_caption(). O tamanho da janela é definido como 1200 pixels de largura por 800 pixels de altura, e a tela é criada usando pygame.display.set_mode(). Um relógio é inicializado usando pygame.time.Clock() para controlar a taxa de quadros do jogo.
 As constantes square_size e game_speed determinam o tamanho dos quadrados que compõem a cobra e a velocidade do jogo, respectivamente.
@@ -25,7 +25,7 @@ As posições da cobra são atualizadas com base nas velocidades horizontal e ve
 A cobra, a comida e a pontuação são desenhadas na tela usando as funções de desenho definidas anteriormente. A tela é atualizada com pygame.display.update().
 Se a cobra colidir com a comida, seu tamanho aumenta e uma nova posição de comida é gerada aleatoriamente.
 O loop é limitado pela função clock.tick(game_speed) para manter uma taxa constante de quadros por segundo.
-No final do código, a função run_game() é chamada para iniciar o jogo.</h3>
+No final do código, a função run_game() é chamada para iniciar o jogo.</p>
 
 ### Tecnologias
 ---
